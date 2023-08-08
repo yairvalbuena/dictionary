@@ -1,10 +1,10 @@
-package com.yarkho.dictionary.feature_dictionary.date.local
+package com.yarkho.dictionary.feature_dictionary.data.local
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.yarkho.dictionary.feature_dictionary.date.local.entity.WordInfoEntity
+import com.yarkho.dictionary.feature_dictionary.data.local.entity.WordInfoEntity
 
 @Dao
 interface WordInfoDao {

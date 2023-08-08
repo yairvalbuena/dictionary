@@ -1,4 +1,4 @@
-package com.yarkho.dictionary.feature_dictionary.date.local.entity
+package com.yarkho.dictionary.feature_dictionary.data.local.entity
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

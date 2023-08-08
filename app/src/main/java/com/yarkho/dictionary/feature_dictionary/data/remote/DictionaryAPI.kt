@@ -1,6 +1,6 @@
-package com.yarkho.dictionary.feature_dictionary.date.remote
+package com.yarkho.dictionary.feature_dictionary.data.remote
 
-import com.yarkho.dictionary.feature_dictionary.date.remote.dto.WordInfoDto
+import com.yarkho.dictionary.feature_dictionary.data.remote.dto.WordInfoDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 

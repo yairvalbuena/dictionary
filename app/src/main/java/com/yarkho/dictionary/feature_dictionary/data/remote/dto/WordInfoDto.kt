@@ -1,6 +1,5 @@
-package com.yarkho.dictionary.feature_dictionary.date.remote.dto
+package com.yarkho.dictionary.feature_dictionary.data.remote.dto
 
-import com.yarkho.dictionary.feature_dictionary.domain.model.License
 import com.yarkho.dictionary.feature_dictionary.domain.model.WordInfo
 
 data class WordInfoDto(

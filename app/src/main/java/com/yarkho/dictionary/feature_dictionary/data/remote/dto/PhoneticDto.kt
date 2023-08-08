@@ -1,4 +1,4 @@
-package com.yarkho.dictionary.feature_dictionary.date.remote.dto
+package com.yarkho.dictionary.feature_dictionary.data.remote.dto
 
 data class PhoneticDto(
     val audio: String,
